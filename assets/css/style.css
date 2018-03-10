@@ -1,8 +1,4 @@
-
-
-
-#buttons{
-
-color: blue;
-
+html { 
+  background: url(../assets/images/fruit-farm.jpg)  center fixed; 
+  background-size: cover;
 }
